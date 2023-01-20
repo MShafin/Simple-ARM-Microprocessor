@@ -20,3 +20,7 @@ To build this project, open and load the files into Quartus and compile it to th
 * [Quartus Prime 20.1](https://www.intel.com/content/www/us/en/software-kit/660907/intel-quartus-prime-lite-edition-design-software-version-20-1-1-for-windows.html)
 * [ModelSim-Intel FGPA](https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html)
 
+
+<p align="center">
+<sup><sub> Credits : CM341 University of Saskatchewan  </sub></sup>
+</p>
