@@ -1,5 +1,3 @@
-# 
-
 <br />
 <p align="center">
   <a ![RoundedIcon](RoundedIcon.png)> <img src="output_files/mcu-icon.png" alt="RoundedIcon" width="90" height="60"> </a>
