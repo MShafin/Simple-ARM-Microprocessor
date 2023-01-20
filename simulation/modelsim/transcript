@@ -1,0 +1,5 @@
+# Loading project final_microprocessor
+# reading /opt/intelFPGA/20.1.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Final_2022_tb
+# Error opening /home/ams166/engr-ece/Final/microprosessor/simulation/modelsim/final_exam_test_bench.v
+# Path name '/home/ams166/engr-ece/Final/microprosessor/simulation/modelsim/final_exam_test_bench.v' doesn't exist.

@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/shm392/engr-ece/CME341/SOLUTION FINAL 21/simulation/modelsim
+vfinal_exam_testbench
+Z0 !s110 1671127955
+!i10b 1
+!s100 [M21`Eg1KZc`e7_Aj32z31
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I><7`12>;nYbKYIWX[SlG=2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim
+w1671127930
+8/home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_exam_test_bench.v
+F/home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_exam_test_bench.v
+!i122 80
+L0 2 144
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1671127955.000000
+!s107 /home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_exam_test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_exam_test_bench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vfinal_microprocessor
+R0
+!i10b 1
+!s100 gBLUiCKH1h6oNO;JmALdz3
+R1
+IZOE0eKP<AUWieimjk8MkB0
+R2
+R3
+Z8 w1671127867
+Z9 8/home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_microprocessor.vo
+Z10 F/home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_microprocessor.vo
+!i122 81
+L0 32 7562
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_microprocessor.vo|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|/home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_microprocessor.vo|
+!i113 1
+R6
+R7
+vhard_block
+R0
+!i10b 1
+!s100 U9bHDH3B:Ac`T5@`d72W33
+R1
+Io32o7;F9C<IbnWh4Yl0H73
+R2
+R3
+R8
+R9
+R10
+!i122 81
+L0 7595 34
+R4
+r1
+!s85 0
+31
+R5
+Z12 !s107 /home/shm392/engr-ece/CME341/SOULTION FINAL 22/simulation/modelsim/final_microprocessor.vo|
+R11
+!i113 1
+R6
+R7
